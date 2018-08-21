@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeRemoteFlight", "AcmeRemoteFlight\AcmeRemoteFlight.csproj", "{2C76A0E5-5436-469A-A1B8-CC0F04DC0655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeRemote.BusinessEntity", "AcmeRemote.BusinessEntity\AcmeRemote.BusinessEntity.csproj", "{C71BD820-4B18-467A-B10C-6F9C27F18D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeRemote.DataAccess", "AcmeRemote.DataAccess\AcmeRemote.DataAccess.csproj", "{EA719F5B-CA7A-4264-91D4-4EA3CA4CDDC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeRemote.DataService", "AcmeRemote.DataService\AcmeRemote.DataService.csproj", "{57F36A85-9FD6-4DBC-957A-182E0AC2F2DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjector", "DependencyInjector\DependencyInjector.csproj", "{AC6C1452-629B-45A2-A144-EB8ACB4D7054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeRemote.Common", "AcmeRemote.Common\AcmeRemote.Common.csproj", "{BA51B443-5ECC-4D38-BCB0-833E494EDE0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C76A0E5-5436-469A-A1B8-CC0F04DC0655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C76A0E5-5436-469A-A1B8-CC0F04DC0655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C76A0E5-5436-469A-A1B8-CC0F04DC0655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C76A0E5-5436-469A-A1B8-CC0F04DC0655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71BD820-4B18-467A-B10C-6F9C27F18D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71BD820-4B18-467A-B10C-6F9C27F18D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71BD820-4B18-467A-B10C-6F9C27F18D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71BD820-4B18-467A-B10C-6F9C27F18D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA719F5B-CA7A-4264-91D4-4EA3CA4CDDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA719F5B-CA7A-4264-91D4-4EA3CA4CDDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA719F5B-CA7A-4264-91D4-4EA3CA4CDDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA719F5B-CA7A-4264-91D4-4EA3CA4CDDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F36A85-9FD6-4DBC-957A-182E0AC2F2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F36A85-9FD6-4DBC-957A-182E0AC2F2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F36A85-9FD6-4DBC-957A-182E0AC2F2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F36A85-9FD6-4DBC-957A-182E0AC2F2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6C1452-629B-45A2-A144-EB8ACB4D7054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6C1452-629B-45A2-A144-EB8ACB4D7054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6C1452-629B-45A2-A144-EB8ACB4D7054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6C1452-629B-45A2-A144-EB8ACB4D7054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA51B443-5ECC-4D38-BCB0-833E494EDE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA51B443-5ECC-4D38-BCB0-833E494EDE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA51B443-5ECC-4D38-BCB0-833E494EDE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA51B443-5ECC-4D38-BCB0-833E494EDE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC97E78-03D1-4197-ABA1-5E3BFF2043F5}
+	EndGlobalSection
+EndGlobal

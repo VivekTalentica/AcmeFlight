@@ -1,0 +1,26 @@
+﻿[
+  {
+    "id": 1,
+    "cityName": "Sydney",
+    "airportName": "Sydney - Airport",
+    "code": "sa"
+  },
+  {
+    "id": 2,
+    "cityName": "Melbourne",
+    "airportName": "Melbourne - Airport",
+    "code": "ma"
+  },
+  {
+    "id": 3,
+    "cityName": "Brisbrane",
+    "airportName": "Brisbrane - Airport",
+    "code": "ba"
+  },
+  {
+    "id": 4,
+    "cityName": "Crains",
+    "airportName": "Crains - Airport",
+    "code": "ca"
+  }
+]

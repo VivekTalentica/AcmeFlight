@@ -1,0 +1,23 @@
+﻿[
+  {
+    "id": 1,
+    "modelNumber": "ADJIS-FX",
+    "manufacture": "Boeing",
+    "rows": 3,
+    "column": 2
+  },
+  {
+    "id": 2,
+    "modelNumber": "ADJIS",
+    "manufacture": "Boeing",
+    "rows": 2,
+    "column": 2
+  },
+  {
+    "id": 3,
+    "modelNumber": "ADJIS-SX",
+    "manufacture": "Boeing",
+    "rows": 1,
+    "column": 2
+  }
+]
